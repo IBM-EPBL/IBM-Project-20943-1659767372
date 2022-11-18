@@ -1,7 +1,8 @@
 
 
 
-# IBM-Project-20943-1659767372
+# IBM-Project-20943-1659767372   ![image](https://user-images.githubusercontent.com/113535480/202775458-dc6ca257-a1ba-4841-bfac-10f40a1d3ff1.png)
+
 AI based discourse for Banking Industry
 
 Team ID: PNT2022TMID22488
